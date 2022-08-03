@@ -2,7 +2,8 @@
 
 # ===================================== 
 
-# Nome do projeto | Partes | Dias
+# Projeto Landing-Page do tenís do Lamelo Ball MB 01:
+Fiz este modelo de site igual do Giannis, que eu fiz, só mudei algumas coisas.
  
 
 # ===================================== 
